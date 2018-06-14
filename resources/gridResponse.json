@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "dataAndMetaData": {
+        "columns": [
+            { "text": "Name",  "dataIndex": "name" },
+            { "text": "Email", "dataIndex": "email", "flex": 1 },
+            { "text": "Phone", "dataIndex": "phone", "flex": 1 }
+        ],
+        "records": [
+            { "name": "Jean Luc", "email": "jeanluc.picard@enterprise.com", "phone": "555-111-1111" },
+            { "name": "Worf",     "email": "worf.moghsson@enterprise.com",  "phone": "555-222-2222" },
+            { "name": "Shreya",     "email": "shreya.moghsson@enterprise.com",  "phone": "555-222-2222" }
+        ]
+    }
+
+}
